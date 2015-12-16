@@ -1,13 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here is my first test application for the final project.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
+Ruby 2.0.0p645 with Rails 4.2.5
 
 * Configuration
 
